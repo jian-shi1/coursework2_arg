@@ -1,6 +1,6 @@
 # Studying Population Genetic Diversity based on Ancestral Recombination Graphs
 
-This is the 2-nd year research coursework project repository. It contains most representative notebooks with some intermediate explanations, code and some visuals.
+This is the 2-nd year research coursework project repository. It contains most representative notebook with some intermediate explanations, code and some visuals.
 
 All libraries act whimsicaly together if other vesrsions but those listed in venv_requirements.txt are used.
 
